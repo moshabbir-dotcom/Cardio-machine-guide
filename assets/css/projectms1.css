@@ -1,6 +1,6 @@
 body {
 	background-color:#333333;
-	background-image: url("Bur906.jpg");
+	background-image: url("assets/media/bur906.jpg");
 	background-attachment: scroll;
 	margin: 10px;
 	padding: 15px;
@@ -29,7 +29,7 @@ footer {
 
 
 .weights {
-	background-image: url("invert883.png");
+	background-image: url("assets/media/invert883.png");
 	background-attachment: fixed;
 }
 
