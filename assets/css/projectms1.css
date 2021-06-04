@@ -47,8 +47,21 @@ em {
 }
 
 #mediabox {
+	height: 5%;
+	width: auto;
+	background-color: #333333;
+	text-align: center;
+	letter-spacing: 3px;
+	font-size: 120%;
 	position: fixed;
+	margin: auto;
 	right: 0;
 	top: 0;
-	color: #bbbbbb;
+	color: #f8514b;
+}
+
+#mediabox li {
+	display: inline;
+	
+	
 }
